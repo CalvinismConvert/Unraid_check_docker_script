@@ -1,7 +1,7 @@
 #!/bin/bash
 
-remove_orphaned_images="no"  # select "yes" or "no" to remove any orphaned images 
-remove_unconnected_volumes="no" # select "yes" or "no" to remove any unconnected volumes
+remove_orphaned_images="yes"  # select "yes" or "no" to remove any orphaned images 
+remove_unconnected_volumes="yes" # select "yes" or "no" to remove any unconnected volumes
 
 # Do not make changes below this line #
 
